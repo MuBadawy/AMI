@@ -9,3 +9,6 @@ Robert:
   - Stock Market Alpha Vantage: https://www.alphavantage.co/
 
   
+Mohamed:
+  - Corona Virus Environmental Impact
+  https://venngage.com/blog/coronavirus-impact-on-environment-infographic/
